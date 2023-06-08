@@ -14,5 +14,5 @@ You are required to complete the following assignment that involves fetching dat
 8. Inside the `catch` block, log any errors to the console using `console.error(error)`.
 9. Call the `fetchData` function outside the function declaration to initiate the data fetching process.
 
-## Good luck 😊
+## Good luck 🖱️
 
